@@ -17,3 +17,10 @@ Imports:
     stringr,
     ggplot2
 RoxygenNote: 7.1.1
+
+
+```
+devtoolts::install_github("PolishNHF/nfzapir1")
+library(nfzapir1)
+```
+
